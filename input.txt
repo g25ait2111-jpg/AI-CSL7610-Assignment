@@ -1,0 +1,4 @@
+Bots: A B C
+Slots: 4
+Constraint: No-Consecutive
+Constraint: Slot4 != C
