@@ -1,0 +1,4 @@
+Start: 123B46758
+Goal: 1234567B8
+Algorithm: A*
+Heuristic: Manhattan
